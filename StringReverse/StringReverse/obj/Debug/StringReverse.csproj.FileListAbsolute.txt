@@ -1,7 +1,0 @@
-C:\Users\afriedman\Downloads\StringReverse\StringReverse\bin\Debug\StringReverse.exe.config
-C:\Users\afriedman\Downloads\StringReverse\StringReverse\bin\Debug\StringReverse.exe
-C:\Users\afriedman\Downloads\StringReverse\StringReverse\bin\Debug\StringReverse.pdb
-C:\Users\afriedman\Downloads\StringReverse\StringReverse\obj\Debug\StringReverse.csprojAssemblyReference.cache
-C:\Users\afriedman\Downloads\StringReverse\StringReverse\obj\Debug\StringReverse.csproj.CoreCompileInputs.cache
-C:\Users\afriedman\Downloads\StringReverse\StringReverse\obj\Debug\StringReverse.exe
-C:\Users\afriedman\Downloads\StringReverse\StringReverse\obj\Debug\StringReverse.pdb
